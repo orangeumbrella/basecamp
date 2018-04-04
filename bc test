@@ -42,5 +42,3 @@ https.createServer(options, (req, res) => {
  
         res.end();
     });
- 
-}).listen(8000);
